@@ -1,0 +1,97 @@
+.jum {
+  background-image: url('./Images/clean.jpg');
+  height: 700px;
+  color: #fffaf0;
+  text-align: center;
+}
+
+.jum1  {
+  padding-top: 50px;
+}
+
+.jum2 {
+  margin-top: 50px;
+}
+
+.navbar-brand {
+  font-size: 32px;
+}
+
+.forside {
+  background-color: #dcdcdc;
+}
+
+.forside1 {
+  padding-top: 20px;
+}
+
+footer{
+  font-size: 18px;
+
+  background-color: black;
+  color: white;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.service{
+  background-image: url('./Images/service.png');
+  height: 700px;
+}
+
+.service1{
+  padding-top: 30px;
+}
+
+.service2 {
+  background-color: #8fbc8f;
+}
+
+.service3 {
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.list li{
+  font-size: 18px;
+}
+
+.cleaning {
+  background-color: #fffaf0;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+.cleaning h1{
+  color: red;
+}
+
+.om {
+  background-image: url('./Images/om.jpg');
+  height: 500px;
+}
+
+.om1 {
+  padding-top: 60px;
+  color: #d2691e;
+}
+
+.om-os {
+  background-color: #ff8c00;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.envi {
+  background-image: url('./Images/envi.jpg');
+  height: 700px;
+  color: #fffaf0;
+}
+
+.job{
+  padding-top: 100px;
+}
