@@ -95,3 +95,7 @@ p {
 .job{
   padding-top: 100px;
 }
+
+.logo img{
+  height: 28px;
+}
